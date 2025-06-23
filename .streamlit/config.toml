@@ -1,0 +1,26 @@
+[theme]
+base = "dark"
+primaryColor = "#c584f7"
+backgroundColor = "#1a1a1a"
+secondaryBackgroundColor = "#2d2d2d"
+textColor = "#ffffff"
+font = "serif"
+
+[chart]
+# Chart styling configuration
+primary_line_color = "#c584f7"
+secondary_line_color = "#ff6b6b"
+accent_color = "#4ecdc4"
+grid_color = "#666666"
+plot_bgcolor = "#1a1a1a"
+paper_bgcolor = "#1a1a1a"
+font_color = "#ffffff"
+line_width_primary = 4
+line_width_secondary = 2
+histogram_opacity = 0.8
+
+[app]
+# App configuration
+default_simulations = 10000
+price_range_factor = 0.5
+chart_bins = 50

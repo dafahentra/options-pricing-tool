@@ -39,7 +39,7 @@ A comprehensive web application for options pricing and risk assessment using ma
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/options-pricing-tool.git
+   git clone https://github.com/dafahentra/options-pricing-tool.git
    cd options-pricing-tool
    ```
 

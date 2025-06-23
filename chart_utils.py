@@ -19,8 +19,7 @@ def get_chart_layout(title, xaxis_title, yaxis_title):
         'plot_bgcolor': CHART_CONFIG['bg_color'],
         'paper_bgcolor': CHART_CONFIG['bg_color'],
         'font_color': CHART_CONFIG['font_color'],
-        'hovermode': 'x unified',
-        'showlegend': False
+        'hovermode': 'x unified'
     }
 
 def create_payoff_chart(S_range, payoff, profit_loss, current_price, option_type):
